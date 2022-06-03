@@ -13,7 +13,7 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    <label for="email"><b>PhoneNumber</b></label>
+    <label for="email"><b>Enter PhoneNumber</b></label>
     <input type="text" placeholder="Enter PhoneNumber" name="PhoneNumber" id="PhoneNumber" required>
     <br>
 
